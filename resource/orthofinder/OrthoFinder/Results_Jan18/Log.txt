@@ -1,0 +1,12 @@
+2024-01-18 22:15:26 : Started OrthoFinder version 2.5.5
+Command Line: /Users/pinar/PycharmProjects/Miuul_Bioinformatics/.snakemake/conda/97fdb63d756d3d9ccafd0839c327d7d3_/bin/orthofinder -f resource/orthofinder -og
+
+WorkingDirectory_Base: /Users/pinar/PycharmProjects/Miuul_Bioinformatics/resource/orthofinder/OrthoFinder/Results_Jan18/WorkingDirectory/
+
+Species used: 
+0: G_intestinalis_aa.faa
+1: G_muris_aa.faa
+2: S_salmonicida_aa.faa
+
+FN_Orthogroups: /Users/pinar/PycharmProjects/Miuul_Bioinformatics/resource/orthofinder/OrthoFinder/Results_Jan18/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+2024-01-18 22:17:53 : OrthoFinder run completed

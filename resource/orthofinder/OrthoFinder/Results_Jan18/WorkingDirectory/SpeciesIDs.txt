@@ -1,0 +1,3 @@
+0: G_intestinalis_aa.faa
+1: G_muris_aa.faa
+2: S_salmonicida_aa.faa
