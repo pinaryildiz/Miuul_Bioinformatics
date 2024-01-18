@@ -1,0 +1,39 @@
+##gff-version 3
+VSRT01000001.1	barrnap:0.9	rRNA	14077	14900	2e-148	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 28 percent of the 28S ribosomal RNA
+VSRT01000004.1	barrnap:0.9	rRNA	93001	93110	7.5e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000005.1	barrnap:0.9	rRNA	532350	532460	4.8e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000005.1	barrnap:0.9	rRNA	538807	538917	4.8e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000005.1	barrnap:0.9	rRNA	792118	792228	4.4e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000005.1	barrnap:0.9	rRNA	796232	796337	6.1e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000011.1	barrnap:0.9	rRNA	49949	50072	1.8e-07	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000011.1	barrnap:0.9	rRNA	612687	613479	3.8e-100	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 27 percent of the 28S ribosomal RNA
+VSRT01000017.1	barrnap:0.9	rRNA	7774	7884	4.4e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	8999	9831	2.8e-82	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 28 percent of the 28S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	11577	12384	2.4e-84	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 43 percent of the 18S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	15172	16181	6.4e-41	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 34 percent of the 28S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	16904	18088	1.2e-56	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 63 percent of the 18S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	22970	23443	8.5e-23	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 25 percent of the 18S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	25701	26513	2.2e-48	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 27 percent of the 28S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	28256	29412	3.7e-100	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 61 percent of the 18S ribosomal RNA
+VSRT01000019.1	barrnap:0.9	rRNA	31058	31909	1.6e-127	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 29 percent of the 28S ribosomal RNA
+VSRT01000020.1	barrnap:0.9	rRNA	37735	37844	5.6e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000020.1	barrnap:0.9	rRNA	43453	43562	5.6e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+VSRT01000022.1	barrnap:0.9	rRNA	5039	6085	1.1e-74	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+VSRT01000022.1	barrnap:0.9	rRNA	6789	7934	1.8e-114	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 61 percent of the 18S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	10492	11338	2.5e-129	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 29 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	12981	14159	7.3e-151	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 63 percent of the 18S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	14890	15926	2e-75	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	15935	16778	7.7e-136	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 28 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	18445	19622	8.4e-151	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 63 percent of the 18S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	20368	21415	3.1e-82	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	23895	25057	6.8e-141	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 62 percent of the 18S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	25798	26834	7.5e-70	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	29360	30525	2.5e-149	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 62 percent of the 18S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	31268	32299	3.4e-69	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	32308	33118	9.1e-143	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 27 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	34778	35963	7.1e-153	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 63 percent of the 18S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	36678	37715	1.6e-69	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	40232	41384	2.6e-131	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 61 percent of the 18S ribosomal RNA
+VSRT01000036.1	barrnap:0.9	rRNA	42116	43158	2e-35	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+VSRT01000037.1	barrnap:0.9	rRNA	38590	39386	1.3e-125	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 27 percent of the 28S ribosomal RNA
+VSRT01000037.1	barrnap:0.9	rRNA	40953	42096	3e-112	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 61 percent of the 18S ribosomal RNA
