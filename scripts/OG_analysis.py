@@ -23,14 +23,14 @@ df_count_s = pd.concat([df_count, df_sing], axis=0)
 df_count_s.loc[df_count_s["Total"] > 1, "Type"] = "OG"
 df_count_s.loc[df_count_s["Total"] == 1, "Type"] = "singleton"
 
-df_count_s = df_count_s.rename(columns={"S_salmonicida_aa": "S. salmonicida",
-                                        "G_intestinalis_aa": "G. intestinalis",
-                                        "G_muris_aa": "G. muris"})
+df_count_s = df_count_s.rename(columns={"S_salmonicida_aa": "S.salmonicida",
+                                        "G_intestinalis_aa": "G.intestinalis",
+                                        "G_muris_aa": "G.muris"})
 
 "Upset plot for both OG and singletons marked different colors"
-df_stack = df_count_s.set_index(df_count_s["S. salmonicida"] >= 1). \
-    set_index(df_count_s["G. intestinalis"] >= 1, append=True). \
-    set_index(df_count_s["G. muris"] >= 1, append=True)
+df_stack = df_count_s.set_index(df_count_s["G.intestinalis"] >= 1). \
+    set_index(df_count_s["G.muris"] >= 1, append=True). \
+    set_index(df_count_s["S.salmonicida"] >= 1, append=True)
 
 """ plot upset0 """
 upset0 = UpSet(df_stack.sort_values(by="Total", ascending=True),

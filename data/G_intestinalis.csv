@@ -1,0 +1,27 @@
+id	ipr	ann_inter	sp
+GL50803_17566	IPR011009	Protein kinase-like domain superfamily	G_intestinalis
+GL50803_17566	IPR008271	Serine/threonine-protein kinase, active site	G_intestinalis
+GL50803_17566	IPR028375	KA1 domain/Ssp2, C-terminal	G_intestinalis
+GL50803_17566	IPR001772	Kinase associated domain 1 (KA1)	G_intestinalis
+GL50803_17566	IPR000719	Protein kinase domain	G_intestinalis
+GL50803_17566	IPR017441	Protein kinase, ATP binding site	G_intestinalis
+GL50803_16805	IPR000403	Phosphatidylinositol 3-/4-kinase, catalytic domain	G_intestinalis
+GL50803_16805	IPR003152	FATC domain	G_intestinalis
+GL50803_16805	IPR015519	Serine/threonine-protein kinase ATM/Tel1	G_intestinalis
+GL50803_16805	IPR036940	Phosphatidylinositol 3-/4-kinase, catalytic domain superfamily	G_intestinalis
+GL50803_16805	IPR011009	Protein kinase-like domain superfamily	G_intestinalis
+GL50803_4156	IPR019808	Histidine triad, conserved site	G_intestinalis
+GL50803_4156	IPR036265	HIT-like superfamily	G_intestinalis
+GL50803_4156	IPR039384	HINT family	G_intestinalis
+GL50803_4156	IPR001310	Histidine triad (HIT) protein	G_intestinalis
+GL50803_4156	IPR011146	HIT-like domain	G_intestinalis
+GL50803_6179	IPR001163	LSM domain, eukaryotic/archaea-type	G_intestinalis
+GL50803_6179	IPR010920	LSM domain superfamily	G_intestinalis
+GL50803_115239	IPR015760	Translation initiation factor IF- 2	G_intestinalis
+GL50803_115239	IPR000795	Translational (tr)-type GTP-binding domain	G_intestinalis
+GL50803_115239	IPR036925	Translation initiation factor IF-2, domain 3 superfamily	G_intestinalis
+GL50803_115239	IPR005225	Small GTP-binding protein domain	G_intestinalis
+GL50803_115239	IPR023115	Translation initiation factor IF- 2, domain 3	G_intestinalis
+GL50803_115239	IPR027417	P-loop containing nucleoside triphosphate hydrolase	G_intestinalis
+GL50803_115239	IPR004161	Translation elongation factor EFTu-like, domain 2	G_intestinalis
+GL50803_115239	IPR009000	Translation protein, beta-barrel domain superfamily	G_intestinalis

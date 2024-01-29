@@ -1,0 +1,27 @@
+id	ipr	ann_inter	sp
+GMRT_12974	IPR000719	Protein kinase domain	muris
+GMRT_12974	IPR002110	Ankyrin repeat	muris
+GMRT_12974	IPR020683	Ankyrin repeat-containing domain	muris
+GMRT_12974	IPR011009	Protein kinase-like domain superfamily	muris
+GMRT_12974	IPR036770	Ankyrin repeat-containing domain superfamily	muris
+GMRT_12974	IPR017441	Protein kinase, ATP binding site	muris
+GMRT_13685	IPR013907	Sds3-like	muris
+GMRT_13013	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase	muris
+GMRT_13013	IPR019012	RNA cap guanine-N2 methyltransferase	muris
+GMRT_23004	IPR016181	Acyl-CoA N-acyltransferase	muris
+GMRT_23004	IPR000182	GNAT domain	muris
+GMRT_12964	IPR016181	Acyl-CoA N-acyltransferase	muris
+GMRT_12964	IPR000182	GNAT domain	muris
+GMRT_12729	IPR014752	Arrestin, C-terminal	muris
+GMRT_12729	IPR001841	Zinc finger, RING-type	muris
+GMRT_12729	IPR013083	Zinc finger, RING/FYVE/PHD-type	muris
+GMRT_12729	IPR014756	Immunoglobulin E-set	muris
+GMRT_15168	IPR029055	Nucleophile aminohydrolases, N-terminal	muris
+GMRT_15168	IPR000426	Proteasome alpha-subunit, N-terminal domain	muris
+GMRT_15168	IPR023332	Proteasome alpha-type subunit	muris
+GMRT_15168	IPR001353	Proteasome, subunit alpha/beta	muris
+GMRT_15168	IPR035144	Proteasome subunit alpha 1	muris
+GMRT_10188	IPR008195	Ribosomal protein L34Ae	muris
+GMRT_10188	IPR038562	Ribosomal protein L34Ae superfamily	muris
+GMRT_15155	IPR017871	ABC transporter, conserved site	muris
+GMRT_15155	IPR003593	AAA+ ATPase domain	muris
